@@ -9,6 +9,16 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>HelloTrivitWatch (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>HelloTrivitWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +33,11 @@
 			<true/>
 		</dict>
 		<key>3D48732D1E748E0C00BD8E80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3D4873411E748E9D00BD8E80</key>
 		<dict>
 			<key>primary</key>
 			<true/>
